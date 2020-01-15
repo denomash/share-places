@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/dennismacharia/Documents/projects/share-places/ios/shareplaces/main.m \
+  /Users/dennismacharia/Documents/projects/share-places/ios/shareplaces/AppDelegate.h \
+  /Users/dennismacharia/Documents/projects/share-places/ios/Pods/Headers/Public/UMReactNativeAdapter/UMModuleRegistryAdapter.h \
+  /Users/dennismacharia/Documents/projects/share-places/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/dennismacharia/Documents/projects/share-places/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/dennismacharia/Documents/projects/share-places/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/dennismacharia/Documents/projects/share-places/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/dennismacharia/Documents/projects/share-places/ios/Pods/Headers/Public/UMCore/UMModuleRegistryProvider.h \
+  /Users/dennismacharia/Documents/projects/share-places/ios/Pods/Headers/Public/UMCore/UMModuleRegistry.h \
+  /Users/dennismacharia/Documents/projects/share-places/ios/Pods/Headers/Public/UMCore/UMInternalModule.h \
+  /Users/dennismacharia/Documents/projects/share-places/ios/Pods/Headers/Public/UMCore/UMDefines.h \
+  /Users/dennismacharia/Documents/projects/share-places/ios/Pods/Headers/Public/UMCore/UMExportedModule.h \
+  /Users/dennismacharia/Documents/projects/share-places/ios/Pods/Headers/Public/UMCore/UMViewManager.h \
+  /Users/dennismacharia/Documents/projects/share-places/ios/Pods/Headers/Public/UMCore/UMModuleRegistryDelegate.h \
+  /Users/dennismacharia/Documents/projects/share-places/ios/Pods/Headers/Public/UMCore/UMSingletonModule.h \
+  /Users/dennismacharia/Documents/projects/share-places/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/dennismacharia/Documents/projects/share-places/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/dennismacharia/Documents/projects/share-places/ios/Pods/Headers/Public/UMCore/UMAppDelegateWrapper.h
